@@ -7,8 +7,7 @@ A table of adversarial learning publications in recommender systems. This page w
   title={Content-based Music Recommendation},
   author={Yashar Deldjoo and Markus Schedl and Peter Knees},
   journal={arXiv},
-  year={2020}
-}
+  year={2020}}
 
 The table is complement of the survey below.
 
