@@ -2,8 +2,15 @@
 
 A table of adversarial learning publications in recommender systems. This page will be ****periodically**** updated to include recent works. Please contact us if your work is not in the list.
 
-The table is complement of the survey below.
 
+@article{music2020deldjoo,
+  title={Content-based Music Recommendation},
+  author={Yashar Deldjoo and Markus Schedl and Peter Knees},
+  journal={arXiv},
+  year={2020}
+}
+
+The table is complement of the survey below.
 
 ### Music
 | Year  | Title       |Target Item  | Venue    | Link        |Code | Data|
