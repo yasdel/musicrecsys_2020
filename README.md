@@ -2,6 +2,14 @@
 
 A table of adversarial learning publications in recommender systems. This page will be ****periodically**** updated to include recent works. Please contact us if your work is not in the list.
 
+@article{deldjoo202contentsurvey,
+  author    = {Yashar Deldjoo and
+               Markus Schedl and
+               Peter Kness},
+  title     = {Content-driven Music Recommendation:Evolution, State of the Art, and Challenges},
+  journal   = {CoRR-arxiv},
+  year      = {2021},
+}
 
 The table is complement of the survey below.
 
