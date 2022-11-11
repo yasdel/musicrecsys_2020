@@ -45,7 +45,6 @@ For questions, please feel free to contact us at <deldjooy@acm.org>.
 ## Authors:
 * Yashar Deldjoo <deldjooy@acm.org> , <yashar.deldjoo@poliba.it>
 * Markus Schedl <markus.schedl@jku.at>
-* Paolo Cremonesi <paolo.cremonesi@polimi.it>
-* Gabriella Pasi <gabriella.pasi@unimib.it>
+* Peter Knees <peter.knees@tuwien.ac.at> 
 
 
