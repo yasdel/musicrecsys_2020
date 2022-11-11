@@ -2,10 +2,7 @@
 
 A table of publications on music recommender systems, in particular recommender systems that leverage content according to the onion model. 
 
-
-![Screenshot (74)](https://user-images.githubusercontent.com/12104758/201320948-6c95e374-cca3-4b4e-a62e-80cb5e79c329.png)
-
-
+![rsz_screenshot_74](https://user-images.githubusercontent.com/12104758/201321443-6f39c1c3-8f90-4ed9-823e-a1df84cc9dba.png)
 
 This page will be ****periodically**** updated to include the most recent works. Please contact us if your work is not in the list. The table serves as overview and extension of the works discussed in the following survey. Please consider citing it if you used the survey.
 
