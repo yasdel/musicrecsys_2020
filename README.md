@@ -1,8 +1,13 @@
 # Content-driven Music Recommendation: Evolution, State of the Art, and Challenges
 
-A table of publications on music recommender systems, in particular recommender systems that leverage content according to the onion model. This page will be ****periodically**** updated to include the most recent works. Please contact us if your work is not in the list.
+A table of publications on music recommender systems, in particular recommender systems that leverage content according to the onion model. 
 
-The table serves as overview and extension of the works discussed in the following survey. Please consider citing it if you used the survey.
+
+![Screenshot (74)](https://user-images.githubusercontent.com/12104758/201320948-6c95e374-cca3-4b4e-a62e-80cb5e79c329.png)
+
+
+
+This page will be ****periodically**** updated to include the most recent works. Please contact us if your work is not in the list. The table serves as overview and extension of the works discussed in the following survey. Please consider citing it if you used the survey.
 
 ```
 @article{contentMusic2022,
