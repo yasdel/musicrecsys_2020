@@ -1,19 +1,16 @@
-# Recommender systems leveraging multimedia content
+# Content-driven Music Recommendation: Evolution, State of the Art, and Challenges
 
-A table of publications on multimedia recommender systems, in particular recommender systems that leverage multimedia content. This page will be ****periodically**** updated to include the most recent works. Please contact us if your work is not in the list.
+A table of publications on music recommender systems, in particular recommender systems that leverage content according to the onion model. This page will be ****periodically**** updated to include the most recent works. Please contact us if your work is not in the list.
 
 The table serves as overview and extension of the works discussed in the following survey. Please consider citing it if you used the survey.
 
 ```
-@article{deldjoo2020recommender,
-  title={Recommender systems leveraging multimedia content},
-  author={Deldjoo, Yashar and Schedl, Markus and Cremonesi, Paolo and Pasi, Gabriella},
-  journal={ACM Computing Surveys (CSUR)},
-  volume={53},
-  number={5},
-  pages={1--38},
-  year={2020},
-  publisher={ACM New York, NY, USA}
+@article{contentMusic2022,
+  title={Content-driven Music Recommendation: Evolution, State of the Art, and Challenges},
+  author={Deldjoo, Yashar and Schedl, Markus and Kness, Peter},
+  journal={Computer Science Review},
+  year={2022},
+  publisher={Springer}
 }
 ```
 
